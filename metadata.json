@@ -1,0 +1,6 @@
+{
+  "name": "ZhangZhu Drive",
+  "description": "ZhangZhu Drive (掌竹网盘) - Trải nghiệm lưu trữ đám mây phong cách Baidu Netdisk: quản lý tệp, xem trước phim ảnh, chia sẻ liên kết mã trích xuất, tải ngoại tuyến và két sắt an toàn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
